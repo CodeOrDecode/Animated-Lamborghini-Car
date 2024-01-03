@@ -4,7 +4,7 @@
 Animated Lamborghini Car project with infinite movement and audio effect. 
 
 
-# Images
+# Image
 
 
 ![Screenshot (552)](https://github.com/CodeOrDecode/Animated-Lamborghini-Car/assets/110326357/b4d45df4-f944-466a-97ef-9a1adfd3066c)
